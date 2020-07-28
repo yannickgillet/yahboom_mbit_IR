@@ -8,3 +8,4 @@ pxt_modules
 .header.json
 .vscode
 .github
+package-lock.json
