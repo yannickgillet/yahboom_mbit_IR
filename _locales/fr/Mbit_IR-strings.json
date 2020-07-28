@@ -1,0 +1,6 @@
+{
+  "Mbit_IR.init|block": "connecter receveur ir à %pin",
+  "Mbit_IR.onPressEvent|block": "Quand le bouton |%btn| est pressé",
+  "Mbit_IR|block": "Mbit_IR",
+  "{id:category}Mbit_IR": "Mbit_IR"
+}

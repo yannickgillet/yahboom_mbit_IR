@@ -1,0 +1,5 @@
+{
+  "Mbit_IR": "IR remote",
+  "Mbit_IR.init": "initialization",
+  "Mbit_IR.onPressEvent": "button pushed."
+}
